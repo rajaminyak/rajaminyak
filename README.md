@@ -2,8 +2,7 @@
 - 👀 I’m interested in blockchain, crypto, oil and gas downstream technology
 - 🌱 I’m currently learning mobile dev
 - 💞️ I’m looking to collaborate on kolam lele
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me https://id.linkedin.com/in/ridho-edistyo-ramadhan-2993b159
 - ⚡ Fun fact: my fart is really stinks
 
 <!---
